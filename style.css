@@ -15,14 +15,14 @@ ul.special_bullet {
     position: relative;
 }
 .fiveone{
-    position: absolute;
+    position:absolute;
     background-color: rgba(239, 233, 233, 0.952);
     color: black;
       bottom: 20px;
   left: 20px;  
   padding-right: 20px;
   padding-left: 20px;
-
+po
 }
 .footer{
     background-color: dimgrey;
